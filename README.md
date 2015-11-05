@@ -1,3 +1,4 @@
+This is to test feature A
 Test Ninja
 
 # TestNinja
